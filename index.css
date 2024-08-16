@@ -1,0 +1,30 @@
+body {
+    background-image: url("./5470679.jpg");
+    background-color: #6f2ca2;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    background-color: rgb(141, 136, 226);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+   }
+.conatainer{ 
+    background-color: white;
+    width: 400px;
+    height: 600px;
+    border-radius: 3%;
+
+}
+
+nav {
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   font-size: 30px;
+   font-family: fantasy;
+}
